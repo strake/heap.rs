@@ -1,0 +1,12 @@
+[package]
+name = "heap"
+version = "0.1.0"
+authors = ["M Farkas-Dyck <strake888@gmail.com>"]
+description = "Heap operations on slices"
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/strake/heap.rs"
+documentation = "https://docs.rs/heap/"
+
+[dev-dependencies]
+quickcheck = "0.4"
+quickcheck_macros = "0.4"
