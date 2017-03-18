@@ -9,4 +9,4 @@ documentation = "https://docs.rs/heap/"
 
 [dev-dependencies]
 quickcheck = "0.4"
-quickcheck_macros = "0.4"
+quickcheck_macros = "0.4.2"
