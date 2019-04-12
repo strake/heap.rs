@@ -8,5 +8,5 @@ repository = "https://github.com/strake/heap.rs"
 documentation = "https://docs.rs/heap/"
 
 [dev-dependencies]
-quickcheck = "0.4"
-quickcheck_macros = "0.4.2"
+quickcheck = "0.7"
+quickcheck_macros = "0.7"
